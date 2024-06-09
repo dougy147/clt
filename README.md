@@ -2,6 +2,8 @@ Concepts learning game inspired by [Mathy and Bradmetz](http://fabien.mathy.free
 
 At each level, you need to discover the concept the game expects you to learn, and classify the elements you see on the screen accordingly.
 
+https://github.com/dougy147/clt/assets/16362303/3049aae6-04d6-459c-8350-870845124b6b
+
 Levels are ordered from least to most difficult.
 
 Works up to 3 dimensions (13 levels).
